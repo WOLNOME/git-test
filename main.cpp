@@ -25,7 +25,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
-		int a = 0;
+		int a = 1;
 
 		///
 		/// ↑更新処理ここまで
