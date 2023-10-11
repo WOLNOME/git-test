@@ -1,4 +1,6 @@
 #include <Novice.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 const char kWindowTitle[] = "LC1A_04_ウシオユウキ_タイトル";
 
@@ -25,7 +27,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓更新処理ここから
 		///
 
-		int a = 1;
+		printf("TEST!\n");
+		printf("LC1A_04_ウシオ_ユウキ\n");
 
 		///
 		/// ↑更新処理ここまで
