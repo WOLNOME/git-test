@@ -2,6 +2,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*memo
+ブランチ：派生させたデータ。
+日付ブランチの作成：マスターから派生
+
+
+*/
+
+
 const char kWindowTitle[] = "LC1A_04_ウシオユウキ_タイトル";
 
 // Windowsアプリでのエントリーポイント(main関数)
@@ -29,6 +37,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		printf("TEST!\n");
 		printf("LC1A_04_ウシオ_ユウキ\n");
+
+		printf("2023/10/11\n");
 
 		///
 		/// ↑更新処理ここまで
